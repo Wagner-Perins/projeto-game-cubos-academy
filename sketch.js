@@ -28,7 +28,7 @@ function draw() {
   if(andarX === 512 && andarY === 512){
   rect(160, 160, 256, 256);
   textSize(32)
-  text('GANHOOOOUUU', 200, 300);
+  text('GANHOUUU', 200, 300);
 
     botao = createButton('Reiniciar');
     
